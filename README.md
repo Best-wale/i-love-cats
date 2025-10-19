@@ -13,7 +13,7 @@ Key highlights
 
 Demo
 - Repo: https://github.com/Best-wale/i-love-cats
-- Live (Railway): [<paste Railway app URL >](https://i-love-cats-production.up.railway.app/me/)
+- Live (Railway): https://i-love-cats-production.up.railway.app/me/
 
 Features
 - /me endpoint returns:
