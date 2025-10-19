@@ -8,5 +8,4 @@ requests==2.32.3
 gunicorn==23.0.0
 whitenoise==6.7.0
 
-# PostgreSQL with connection pooling
-psycopg[binary,pool]==3.2.1
+
